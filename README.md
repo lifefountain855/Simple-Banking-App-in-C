@@ -1,11 +1,9 @@
 # Simple Banking App in C
 
 ## Description
+This was a final project that I decided on for one of programming courses in C. It features a admin and user console, where the user can create, edit, and save their account. Admin can delete and see all accounts.
 
 ## Building & Running
-
-Most programs can be compiled with `gcc`:
-
 ```bash
 gcc main.c -o program.exe
 ./program.exe
